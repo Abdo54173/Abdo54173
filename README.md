@@ -103,7 +103,7 @@ I focus on building scalable AI applications, AI agents, RAG pipelines, and prod
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=sqlserver" />
+<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
 </p>
 
@@ -142,7 +142,3 @@ AI-Based ID Verification System
 
 📧 **abdoamrm777@gmail.com**  
 📍 **Cairo, Egypt**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdo54173&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
