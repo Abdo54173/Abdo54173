@@ -103,7 +103,7 @@ I focus on building scalable AI applications, AI agents, RAG pipelines, and prod
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=sqlserver" />
 
 </p>
 
